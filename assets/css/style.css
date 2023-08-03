@@ -72,7 +72,7 @@ custom.css and it will override the style in this file. You have been warned! :)
 		#CSS VARIBALES
 \*------------------------------------*/
 :root {
-	--global--color-primary   : #0163b3;
+	--global--color-primary   : #fac31c;
 	--global--color-primary-90: rgba(50, 195, 108, 0.9);
 	--global--color-primary-70: rgba(50, 195, 108, 0.7);
 	--global--color-heading   : #253745;
