@@ -146,7 +146,6 @@ textarea {
 .form-control {
 	-webkit-box-shadow: none;
 	box-shadow        : none;
-	white-space: pre-wrap
 }
 
 button {
