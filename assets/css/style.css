@@ -167,6 +167,7 @@ textarea {
 body,
 html {
 	overflow-x: hidden;
+	width:-webkit-fill-available;
 }
 
 body {
