@@ -18785,6 +18785,22 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 	}
 }
 
+@media (max-width: 768px){
+	.process-panel .process-panel-dark .process-body .process-content {
+		width:max-content;
+		max-width:min-content;
+		padding: 30px;
+	}
+}
+
+@media (max-width: 768px){
+	.process-content {
+		padding-left: 20px;
+		padding-right: 20px;
+		margin: 10px;
+	}
+}
+
 .processes .processes-holder .images-holder .processes-panel .panel-title {
 	font-size    : 20px;
 	line-height  : 30px;
