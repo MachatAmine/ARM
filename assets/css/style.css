@@ -1367,6 +1367,11 @@ form .col-12 {
 	text-transform: capitalize;
 }
 
+li {
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
 .form-control::-moz-placeholder {
 	font-family   : var(--global--font-body);
 	color         : var(--global--color-body);
